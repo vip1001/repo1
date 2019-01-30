@@ -9,6 +9,8 @@ public class Test {
 
 
      System.out.println("测试更新");
+        System.out.println("测试远程不同");
+
 
 
     }
